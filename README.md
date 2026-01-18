@@ -1,4 +1,6 @@
 ## Hi there 👋
+- git新人，我是一个笨蛋
+- 喜欢吃麦当劳
 
 <!--
 **YakumoZn/YakumoZn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
